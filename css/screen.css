@@ -38,7 +38,7 @@ a:hover {
 
 #footer {
   background-color: #eee;
-  min-height: 10em;
+  min-height: 8em;
 }
 
 #footer p.follow {
@@ -64,7 +64,7 @@ a:hover {
 }
 
 .front #footer {
-  padding-top: 8em;
+  padding-top: 4em;
 }
 
 .front h1,
